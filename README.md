@@ -117,7 +117,7 @@ Through this project, I practiced:
 ### 🌐 Connect with Me
 
 - 🐙 **GitHub:** https://github.com/Krishna-gupta73
-- 💼 **LinkedIn:** https://www.linkedin.com/in/krishna-gupta-758616330
+- 💼 **LinkedIn:** https://www.linkedin.com/in/krishna-gupta-73-
 - 💡 **LeetCode:** https://leetcode.com/u/krishna_gupta07
 
 ---
